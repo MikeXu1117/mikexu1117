@@ -1,6 +1,7 @@
-## Hello there, I'm Mike.Xu from Nanjing. Now living in the US, major in Software Engneering at Miami University.
+## Hello there! I'm Mike.Xu, from Nanjing. 
+## Now living in the US, major in Software Engneering at Miami University.
 
-### Here are my hobby list:
+### Here is my hobby list:
 - Apple
 - Apple Retail
 - Architecture
