@@ -6,6 +6,9 @@
 
 #### Mike's Hobbies
 - Apple
+
+![image](https://github.com/MikeXu1117/welcome/blob/master/images/apple.jpg)
+
 - Apple Retail
 ##### Apple Nanjing Jinmao Place
 ![image](https://github.com/MikeXu1117/welcome/blob/master/images/jmp.jpg)
@@ -18,10 +21,12 @@
 
 - Architecture
 
-![image]()
+##### ifc Nanjing
+![image](https://github.com/MikeXu1117/welcome/blob/master/images/architect.jpg)
 
 - Photography
 
+##### Chicago CTA Station
 ![image](https://github.com/MikeXu1117/welcome/blob/master/images/photogra.jpg)
 
 - UX
@@ -30,10 +35,12 @@
 
 - Rail included Subway
 
+##### Chicago CTA
 ![image](https://github.com/MikeXu1117/welcome/blob/master/images/rail.JPG)
 
 - HEYTEA喜茶
 
+##### HEYTEA DP (Kaide Int. Store) in Guangzhou
 ![image](https://github.com/MikeXu1117/welcome/blob/master/images/heytea.jpg)
 
 - DIGIMON
@@ -42,10 +49,11 @@
 
 - LoveLive!
 
-![image](https://github.com/MikeXu1117/welcome/blob/master/images/lol.HEIC)
+![image](https://github.com/MikeXu1117/welcome/blob/master/images/lol.jpg)
 
 - LEGO
 
+##### F·r·i·e·n·d·s Special Edition
 ![image](https://github.com/MikeXu1117/welcome/blob/master/images/lego.jpg)
 
 #### Mike's Contact
