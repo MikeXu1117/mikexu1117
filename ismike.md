@@ -62,6 +62,4 @@
 - Telegram @mike_xu
 - Sina Weibo 新浪微博 @MikeXu_
 
-![image](https://github.com/MikeXu1117/welcome/blob/master/images/socialmedia.jpg)
-
 #### All Photos Above From ©Mike.Xu
