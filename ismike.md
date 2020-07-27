@@ -57,8 +57,8 @@
 ![image](https://github.com/MikeXu1117/welcome/blob/master/images/lego.jpg)
 
 #### Mike's Contact
-- Facebook MikeXu1117
-- Twitter @mike_xu_
+- Facebook mikexuzx
+- Twitter @mikexu_
 - Telegram @mike_xu
 - Sina Weibo 新浪微博 @MikeXu_
 
