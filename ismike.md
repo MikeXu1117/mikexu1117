@@ -56,10 +56,9 @@
 ##### F·r·i·e·n·d·s Special Edition
 ![image](https://github.com/mikexuzx/welcome/blob/master/images/lego.jpg)
 
-#### Mike's Contact
-- Facebook mikexuzx
+#### Mike's Social Media
 - Twitter @mikexu_
+- Facebook mikexuzx
 - Telegram @mike_xu
-- Sina Weibo 新浪微博 @MikeXu_
 
 #### All Photos Above From ©Mike.Xu
