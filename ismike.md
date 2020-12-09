@@ -1,6 +1,6 @@
 # Mike's Introduction
 
-![image](https://github.com/mikexuzx/welcome/blob/master/images/avatar.jpeg)
+![image](https://github.com/mikexuzx/welcome/blob/master/images/avatar.jpg)
 
 ### Hello there! I'm Mike.Xu, from Nanjing. Now living in the US, major in Software Engneering at Miami University. Mike is a motivated and loyalty boy. Try to meet me and chat with me on Facebook, Twitter or Telegram. I have provided at the bottom of the intro, and welcome to learn about me.
 
