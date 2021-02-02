@@ -10,10 +10,10 @@
 ![image](https://github.com/mikexuzx/welcome/blob/master/images/apple.jpg)
 
 - Apple Retail
-##### Apple Nanjing Jinmao Place
+##### Apple Xuanwu Lake
 ![image](https://github.com/mikexuzx/welcome/blob/master/images/jmp.jpg)
 
-##### Apple Cotai Central
+##### Apple Cotai Strip
 ![imagge](https://github.com/mikexuzx/welcome/blob/master/images/cc.jpg)
 
 ##### Apple Michigan Avenue
